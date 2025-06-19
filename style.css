@@ -126,7 +126,7 @@ body {
 	color: var(--color-primary);
 	background-image: -webkit-repeating-radial-gradient(
 		center center,
-		var(--color-primary),
+		/* var(--color-primary), */ #7b1821,
 		var(--color-primary) 1px,
 		var(--color-secondary) 1px,
 		var(--color-secondary) 100%
@@ -168,6 +168,7 @@ h2 {
 	line-height: 1.25;
 	font-size: var(--font-size-h2);
 	font-size: clamp(2rem, 4vw, var(--font-size-h2));
+	color: #7b1821;
 }
 .skip-link {
 	position: absolute;
