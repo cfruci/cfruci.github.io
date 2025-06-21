@@ -168,7 +168,7 @@ h2 {
 	line-height: 1.25;
 	font-size: var(--font-size-h2);
 	font-size: clamp(2rem, 4vw, var(--font-size-h2));
-	color: #7b1821;
+	color: var(--color-primary);
 }
 .skip-link {
 	position: absolute;
