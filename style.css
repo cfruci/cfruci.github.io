@@ -126,7 +126,7 @@ body {
 	color: var(--color-primary);
 	background-image: -webkit-repeating-radial-gradient(
 		center center,
-		/* var(--color-primary), */ #7b1821,
+		var(--color-primary),
 		var(--color-primary) 1px,
 		var(--color-secondary) 1px,
 		var(--color-secondary) 100%
