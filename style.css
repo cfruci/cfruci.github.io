@@ -764,7 +764,7 @@ aside .container ol li + li {
 	margin-top: 0.5em;
 }
 #about a,
-#guidelines a,
+#resume a,
 #contribute ol a,
 #contribute p a,
 .profile a,
@@ -775,7 +775,7 @@ aside .container ol li + li {
 	border-bottom: 2px solid;
 }
 #about a:hover,
-#guidelines a:hover,
+#resume a:hover,
 #contribute ol a:hover,
 #contribute p a:hover,
 .profile a:hover,
@@ -783,7 +783,7 @@ aside .container ol li + li {
 .page-footer p a:hover {
 	border-bottom-width: 4px;
 }
-#guidelines p:last-of-type {
+#resume p:last-of-type {
 	margin-bottom: 1em;
 }
 section + section {
