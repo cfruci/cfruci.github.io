@@ -418,7 +418,8 @@ nav a:hover {
 #main article + article {
 	margin-top: 4rem;
 }
-#about ul {
+#about,
+#favorites ul {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -427,7 +428,8 @@ nav a:hover {
 	list-style: none;
 	padding: 0;
 }
-#about ul li {
+#about,
+#favorites ul li {
 	margin-right: 0.75rem;
 	margin-bottom: 0.75rem;
 	display: -webkit-inline-box;
@@ -441,7 +443,8 @@ nav a:hover {
 	-ms-flex-align: center;
 	align-items: center;
 }
-#about ul li:before {
+#about,
+#favorites ul li:before {
 	content: "";
 	display: block;
 	width: 1rem;
